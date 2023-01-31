@@ -1,4 +1,4 @@
-export class Negotiation {
+export class Negociacao {
     constructor(date, quantity, value) {
         this._date = date;
         this._quantity = quantity;
